@@ -1,5 +1,5 @@
 # uml-class-java
-
+```mermaid
 classDiagram
     class ReprodutorMusical
     <<interface>> ReprodutorMusical
